@@ -28,6 +28,7 @@ Run check for list of Phone Number
 npm run check 
 ```
 
+put numer list in src/check.js/line 7
 
 ***Note*** Phone Number format is (**Country Prefix without**)(Phone Number Digits)
 
